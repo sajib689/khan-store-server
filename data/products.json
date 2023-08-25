@@ -1,0 +1,138 @@
+[
+    {
+        
+        "_id": "02efajhol052",
+        "category_id": 1,
+        "title": "K.KOPACABANA BEAUTY CARE FACE OUT SOAP 120G",
+        "image_url": "https://www.cellsii.com/images/thumbnails/450/450/detailed/65/K.Kopacabana-Beauty-Care-Face-Out-Soap-120g.webp",
+        "price": 250,
+        "description": "Made in UK Buy The Body Shop Shea Soap 100g in Bangladesh from Cellsii.com. Work this vegetable based bar into a rich lather for skin that feels thoroughly cleansed. Community fair trade shea butter from Ghana will leave you feeling more soft and hydrated.",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol053",
+        "category_id": 1,
+        "title": "THE BODY SHOP SHEA SOAP 100G",
+        "image_url": "https://www.cellsii.com/images/thumbnails/450/450/detailed/64/The-Body-Shop-Shea-Soap-100g.webp",
+        "price": 320,
+        "description": "Made in UK Buy The Body Shop Shea Soap 100g in Bangladesh from Cellsii.com. Work this vegetable based bar into a rich lather for skin that feels thoroughly cleansed. Community fair trade shea butter from Ghana will leave you feeling more soft and hydrated.",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol054",
+        "category_id": 1,
+        "title": "THE BODY SHOP OLIVE SOAP 100G",
+        "image_url": "https://www.cellsii.com/images/thumbnails/450/450/detailed/64/The-Body-Shop-Olive-Soap-100g.webp",
+        "price": 320,
+        "description": "Buy The Body Shop Olive Soap 100g in Bangladesh from Cellsii.com. Wake up your shower with the warm scent of the Mediterranean. Work this vegetable based bar into a rich lather for skin that feels thoroughly cleansed. Organic olive oil will leave you feeling soft and hydrated.",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol055",
+        "category_id": 1,
+        "title": "THE BODY SHOP WILD ARGAN OIL SOAP 100G",
+        "image_url": "https://www.cellsii.com/images/thumbnails/450/450/detailed/64/The-Body-Shop-Wild-Argan-Oil-Soap-100g.webp",
+        "price": 400,
+        "description": "Buy The Body Shop Wild Argan Oil Soap 100g in Bangladesh from Cellsii.com. Escape to an exotic hammam as you wrap your skin with our Wild Argan Oil Massage Soap. Use this non-drying soap daily to lather up, leaving your skin feeling, cleansed, and silky-soft.",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol056",
+        "category_id": 2,
+        "title": "Frito-Lay Fun Times Mix Variety Pack, 40 Count",
+        "image_url": "https://m.media-amazon.com/images/I/61tBNBeXHGL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": 3540,
+        "description": "Frito Lay Variety Packs Frito-Lay Variety Packs provides the perfect portion size and variety to keep your entire family happy. No matter what the occasion from stocking the pantry to your next family party to the lunch box or even a desk break all you have to do is grab a pack and go!",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol057",
+        "category_id": 2,
+        "title": "Lay's Potato Chip Variety Pack, 1 Ounce (Pack of 40)",
+        "image_url": "https://m.media-amazon.com/images/I/61vs7ucqGKL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": 1440,
+        "description": "Wherever celebrations and good times happen, the LAY'S brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a chip or crisp flavor guaranteed to bring a smile on your face.",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol058",
+        "category_id": 2,
+        "title": "Pringles Potato Crisps Chips, Lunch Snacks, Office and Kids Snacks, Grab N' Go, Original (12 Cans)",
+        "image_url": "https://m.media-amazon.com/images/I/71zEm9+2kuL._SX679_PIbundle-12,TopRight,0,0_AA679SH20_.jpg",
+        "price": 1756,
+        "description": "Discover the gold standard of tantalizing Pringles Original Crisps that hit the spot every time.",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol057",
+        "category_id": 2,
+        "title": "Lay's Potato Chip Variety Pack, 1 Ounce (Pack of 40)",
+        "image_url": "https://m.media-amazon.com/images/I/61vs7ucqGKL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": 4123,
+        "description": "Wherever celebrations and good times happen, the LAY'S brand will be there just as it has been for more than 75 years. With flavors almost as rich as our history, we have a chip or crisp flavor guaranteed to bring a smile on your face.",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol059",
+        "category_id": 2,
+        "title": "Ruffles Potato Chips Variety Pack, 40 Count (Pack of 1)",
+        "image_url": "https://m.media-amazon.com/images/I/51gPDDKlpMS._SX300_SY300_QL70_FMwebp_.jpg",
+        "price": 1574,
+        "description": "Ruffles is famous for two things: the ridges on our chips, the fact that we’re the Official Chip of the NBA, and the best chip flavors the game has ever tasted. Okay, so maybe its three thing",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol060",
+        "category_id": 3,
+        "title": "PRAN Badam Bhaja 30 gm",
+        "image_url": "https://images.othoba.com/images/thumbs/0259740_pran-badam-bhaja-30-gm.jpeg",
+        "price": 10,
+        "description": "No change will be applicable which are already delivered to customer. If product quality or quantity problem found then customer can return/cancel their order on delivery time with presence of delivery person.",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol061",
+        "category_id": 3,
+        "title": "PRAN Dal Bhaja 30gm",
+        "image_url": "https://images.othoba.com/images/thumbs/0259743_pran-dal-bhaja-30gm.jpeg",
+        "price": 10,
+        "description": "No change will be applicable which are already delivered to customer. If product quality or quantity problem found then customer can return/cancel their order on delivery time with presence of delivery person.",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol062",
+        "category_id": 3,
+        "title": "Pran Badam Bhaja 18 gm",
+        "image_url": "https://chaldn.com/_mpimage/pran-badam-bhaja-18-gm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108073&q=best&v=1&m=400&webp=1",
+        "price": 40,
+        "description": "Chaldal.com is an online shop available in Dhaka, Chattogram and Jashore. We believe time is valuable to our fellow residents, and that they should not have to waste hours in traffic, brave bad weather and wait in line just to buy basic necessities like eggs! This is why Chaldal delivers everything you need right at your door-step and at no additional cost",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol063",
+        "category_id": 3,
+        "title": "Pran Fried Peas Motor Bhaja 5 pcs",
+        "image_url": "https://bazarmama.xyz/wp-content/uploads/2022/07/C90087B5.png",
+        "price": 25,
+        "description": "Made from the fresh peas from farm best quality fried peas",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol064",
+        "category_id": 4,
+        "title": "Suisai Beauty Clear Powder Wash N 15 pcs",
+        "image_url": "https://app.kireibd.com/storage/all/Suisai-Beauty-Clear-Powder-Wash-N.jpg",
+        "price": 1480,
+        "description": "SUISAI Beauty Clear Powder Wash N a unique powder format that activates when in contact with water, and transforms into a foamy and effervescent cleanser. Deep cleanses pores from dirt and toxins, removes dead skin cells for a smooth and more radiant complexion while hydrating the skin. The facial wash contains proteolytic enzyme (Protease) lipolytic enzyme (Lipase) and amino acid-based cleansing ingredients (Sodium Lauroyl Glutamate Sodium Myristoyl Glutamate) to break down impurities and sebum. This is an upgrade from the original version with two new ingredients Ethyl Glucoside and Sodium Hyaluronate for enhanced moisturizing effects",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    },
+    {
+        "_id": "02efajhol065",
+        "category_id": 4,
+        "title": "RIN WASHING POWDER POWER BRIGHT 1KG CONTAINER FREE",
+        "image_url": "https://ushopbd.com/cdn/shop/products/RinDeterjent1KG406x235mmcam1PNG_1200x1200.png?v=1671610180",
+        "price": 192,
+        "description": "Rin Washing Powder removes dirt from deep within the cloth fiber, thereby removing dullness from your clothes. Rin Washing Powder comes with Bright Clean Technology, making your clothes look 'Bright like new'. Use 1 or 2 scoops of Rin for...",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+    }
+]

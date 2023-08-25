@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "name": "All Products",
+        "img": "https://www.finncrisp.com/449a61/siteassets/search/smaller/all-products-s.png?maxwidth=600&maxheight=600"
+    },
+    {
+        "id": 1,
+        "name": "Soap",
+        "img": "https://img.thrfun.com/img/127/341/storing_bars_of_soap_x1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Potato Chip",
+        "img": "https://img.freepik.com/free-photo/potato-chips-isolated-white_93675-129934.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Badam Bhaja",
+        "img": "https://www.bazaarkgp.com/product_image/11557583311.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Wasing Powder",
+        "img": "https://media.istockphoto.com/id/953742634/photo/pink-cup-or-scoop-of-white-powder-detergent-for-clothes-washing-dry-cleaning-concept-chores-of.jpg?s=612x612&w=0&k=20&c=xErQdDWkJbnZZ3-GS-Q6b8lwFjYzKkKSFflUCuJ3rPg="
+    }
+]
