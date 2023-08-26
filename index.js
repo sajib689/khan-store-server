@@ -24,8 +24,9 @@ app.get('/categories/:id', (req, res) =>{
     if (id === 0 ){
         res.send(products)
     } else{
-    const categoryProducts = products.filter(p => p.category_id === id)
+    const categoryProducts = products.filter(n => n.category_id === id)
     res.send(categoryProducts)
+   
     }
 })
 app.listen(port, (req, res) =>{
